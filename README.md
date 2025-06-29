@@ -46,6 +46,6 @@ Both solutions include **unit tests** to verify correctness and edge cases. Thes
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Java 8+
 - JUnit (for testing)
