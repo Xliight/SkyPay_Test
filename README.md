@@ -4,7 +4,7 @@ This repository contains my solutions for two technical tests provided by Skypay
 
 ---
 
-## 📘 Test 1 – Banking Service
+## Test 1 – Banking Service
 
 A simple banking system that allows a user to:
 - **Deposit** money
@@ -12,7 +12,7 @@ A simple banking system that allows a user to:
 - **Print** the bank statement (showing all transactions in reverse chronological order)
 
 
-## 🏨 Test 2 – Hotel Reservation System
+## Test 2 – Hotel Reservation System
 
 A mini hotel booking system to manage:
 - **Users** with a balance
@@ -28,7 +28,7 @@ A mini hotel booking system to manage:
 
 ---
 
-## ✅ Unit Tests
+## Unit Tests
 
 Both solutions include **unit tests** to verify correctness and edge cases. These tests cover:
 - Valid and invalid transactions/bookings
@@ -38,7 +38,7 @@ Both solutions include **unit tests** to verify correctness and edge cases. Thes
 
 ---
 
-## 🖼️ Sample Output Screenshots
+## Sample Output Screenshots
 
 ### `printAll()` and `printAllUsers()` from Hotel Reservation System:
 
